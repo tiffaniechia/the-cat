@@ -4,6 +4,8 @@ The goal of this test is to understand our grasp of version control. Each studen
 
 This test was set by [Evgeny Shadchnev](https://github.com/shadchnev).
 
-##Stack:
+(Week 2)
+
+##Technologies Used
 - Command line
 - Version Control
